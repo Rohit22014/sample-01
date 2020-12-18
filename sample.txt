@@ -1,0 +1,2 @@
+   <ellipse id="78" cx="23" cy="56" rx="90" ry="12"/>
+   <circle id="67" cx="54" cy="32" r="87" style = "fill : yellow; stroke: black; stroke-width: 56"/>
